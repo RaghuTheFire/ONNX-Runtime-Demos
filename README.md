@@ -1,4 +1,4 @@
-# ONNX: Revolutionizing Machine Learning Interoperability
+# ONNX
 
 The Open Neural Network Exchange (ONNX) is an open-source format designed to facilitate the interoperability of artificial intelligence (AI) models. Developed by a collaboration between Microsoft and Facebook in 2017, ONNX aims to bridge the gap between various machine learning frameworks, allowing models to be transferred and utilized across different platforms without requiring extensive conversion processes.
 
